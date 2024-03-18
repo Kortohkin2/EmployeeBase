@@ -1,5 +1,6 @@
 # Accounting of employee React App
-![promo] './logo.png'
+![Image alt](https://github.com/Kortohkin2/EmployeeBase/blob/main/logo.png?raw=true)
+
 
 
 
